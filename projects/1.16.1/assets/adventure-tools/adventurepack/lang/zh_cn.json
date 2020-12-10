@@ -1,1 +1,11 @@
-{}
+{
+
+  "item.adventurepack.escape_rope": "逃生绳索",
+  "item.adventurepack.flashlight": "手电筒",
+  "item.adventurepack.ender_lantern": "瞬移灯笼",
+  "item.adventurepack.mining_lantern": "探矿灯笼",
+  "item.adventurepack.mining_helmet": "探矿头盔",
+  "item.adventurepack.explorer_hat": "探险者帽",
+  "item.adventurepack.cowboy_hat": "牛仔帽",
+  "itemGroup.adventure_pack": "探险背包"
+}
